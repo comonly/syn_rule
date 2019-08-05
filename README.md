@@ -21,3 +21,6 @@ $ git branch -d dev
 $ git push origin --delete dev
 
 # 合并分支
+合并指定分支到当前分支 包括分支的提交记录  
+$ git merge dev
+
