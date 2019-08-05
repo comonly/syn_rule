@@ -8,7 +8,7 @@ $ git branch
 # 创建分支
 创建并切换分支
 $ git checkout -b dev
-=
+相当于
 $ git branch dev
 $ git checkout dev
 远程同步创建的分支,将本地dev分支push到远程dev，没有远程dev会自动创建
